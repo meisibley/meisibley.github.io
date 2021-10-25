@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <style>
+  html, body {
+    height: 100%;
+    margin: 0;
+  }
+  body {
+    background: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    flex-direction: row;
+
+  }
+  .gameDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    flex-direction: column;
+    width: 80%;
+  }
+  .linkDiv{
+    height: 100%;
+    width: 20%;
+    border-right: 1px solid white;
+    padding: 0px 20px;
+  }
+  .linkHeading{
+    text-align: center;
+  }
+  a {
+    font-size: 1.5em;
+    color: white;
+    display: block;
+  }
+  canvas {
+    border: 1px solid white;
+  }
+  </style>
+</head>
+<body>
+  <div class="linkDiv">
+    <h1 class="linkHeading">Links to Code</h1>
+    <a href="https://github.com/MCTWalker/JavascriptClassCode">Class Code</a>
+    <a href="https://github.com/MCTWalker/JavascriptClassCode">A differnt link</a>
+  </div>
+  <div class="gameDiv">
+    <h1>Snake Game</h1>
+  <canvas width="400" height="400" id="game"></canvas>
+  </div>
+<script src="code/snake.js"></script>
+</body>
+</html>

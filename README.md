@@ -1,2 +1,2 @@
-# meisibley.github.io
-My publicly hostd website
+# JavascriptClassCode
+Code written for Javascript class at Tulsa Tech
