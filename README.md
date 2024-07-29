@@ -86,6 +86,12 @@ PROJECT
 
 - Bootstrap project: I used HTML, CSS, JS and Bootstrap to improve original “Smiling School” code. https://meisibley.github.io/atlas-smiling-school-javascript/
 
+#### Contect
+- ![icons8-email-24](https://github.com/user-attachments/assets/3414ac1d-5153-4662-abdc-70c14e76bd98)
+mkong99@yahoo.com
+- ![icons8-phone-24](https://github.com/user-attachments/assets/2df7396b-c722-4661-97f1-c276e33cdc54)
+918-629-1150
+
 ## Social links
 - ![icons8-linkedin-logo-24](https://github.com/user-attachments/assets/656f5b25-35a2-4c00-8ac3-41acc005befe) https://www.linkedin.com/in/mei-sibley/
 - ![icons8-instagram-logo-24](https://github.com/user-attachments/assets/bc730a54-a43b-4ad7-a03c-cc57f6b2eaa5)
