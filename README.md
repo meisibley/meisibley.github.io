@@ -8,6 +8,6 @@ Much like my LinkedIn profile, this personal website demonstrates what makes me 
 - Portfolio
 - Contect
 ## Links to my webs
-- https://github.com/meisibley
+- ![icons8-linkedin-logo-24](https://github.com/user-attachments/assets/656f5b25-35a2-4c00-8ac3-41acc005befe) https://github.com/meisibley
 - https://www.instagram.com/meisibley
 - https://www.linkedin.com/in/mei-sibley/
