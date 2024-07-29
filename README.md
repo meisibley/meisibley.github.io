@@ -3,12 +3,14 @@ Much like my LinkedIn profile, this personal website demonstrates what makes me 
 ![meiSweb](https://github.com/user-attachments/assets/e9960f1c-1cc4-429a-b828-9ed9915d728d)
 ## Contents
 - [Home](#home_page)
-- About
+- [About](#about_page)
 - Resume
 - Portfolio
 - Contect
-## Home
-jalkjfksajf
+### Home
+The home page.
+### About
+About
 ## Social links
 - ![icons8-linkedin-logo-24](https://github.com/user-attachments/assets/656f5b25-35a2-4c00-8ac3-41acc005befe) https://www.linkedin.com/in/mei-sibley/
 - ![icons8-instagram-logo-24](https://github.com/user-attachments/assets/bc730a54-a43b-4ad7-a03c-cc57f6b2eaa5)
