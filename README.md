@@ -78,7 +78,7 @@ Skiing is Dangerous: Sammy Ansari and I chose GoDot to design a video game. http
 
 Travel Atlas: Frandy Slueue and I collaborated to build a travel agency website using HTML, CSS, JavaScript, Bootstrap, SASS, and jQuery. https://codebreed.dev/
 
-Bootstrap project: I used HTML, CSS, JS and Bootstrap to improve original “Smiling School” code. https://github.com/meisibley/atlas-smiling-school/homepage.html
+Bootstrap project: I used HTML, CSS, JS and Bootstrap to improve original “Smiling School” code. https://meisibley.github.io/atlas-smiling-school-javascript/
 
 ## Social links
 - ![icons8-linkedin-logo-24](https://github.com/user-attachments/assets/656f5b25-35a2-4c00-8ac3-41acc005befe) https://www.linkedin.com/in/mei-sibley/
