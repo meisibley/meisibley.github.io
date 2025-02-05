@@ -43,13 +43,13 @@ Credits include: Mathematical Analysis, Analytic Geometry, Advanced Algebra, Num
 
 SKILLS
 - Programming languages, OS systems, and tools
-C, C++, SQL, Python, JavaScript, HTML, CSS, Linus / UNIX, VS Code, GitHub
+C, C++, C#, SQL, Python, JavaScript, HTML, CSS, Linus / UNIX, VS Code, GitHub
 
 - Front-end
 HTML, CSS, SASS/SCSS, Bootstrap, React
 
 - Back-end
-js: Node, express, jQuery, react-router, Mongoose, mocha, chai, sinon, mongodb, mongosh
+js: NodeJS, express, jQuery, react-router, Mongoose, mocha, chai, sinon, mongodb, mongosh
 py: Flask, MySQL, SQLAlchemy, RESTful API
 
 WORK EXPERIENCE
@@ -78,8 +78,17 @@ Worked for bond online trading system for European market by using FIX protocol 
 Developed Matrix Models with teammates to build an online financial analysis system.
 Coded and tested assigned modules using C++ and SQL.
 
+- Computer System Establishment & Development / September 1984 - June 1988, March 1991 - June 1997
+The Agricultural Bank of China (China)
+Involved in the establishment of the bank's computer system from inception
+Conducted software development using programming languages such as COBOL, Basics, and Fortran on Dos and Unix system
+Implemented modem-based data translation techniques
+Held technical management responsibilities within one of IT groups
+
 #### Portfolio
 PROJECT
+- Trove (Dec, 2024): Capstone group project, used React/TailwindCSS, NextJS/NextAuth, PostgreSQL/Prisma and built a financial education app. Contributed part of design and front-end programming. https://www.linkedin.com/pulse/capstone-retrospective-mei-sibley-i9zgc/
+
 - Skiing is Dangerous: Sammy Ansari and I chose GoDot to design a video game. https://www.youtube.com/watch?v=5yefyNgch9I
 
 - Travel Atlas: Frandy Slueue and I collaborated to build a travel agency website using HTML, CSS, JavaScript, Bootstrap, SASS, and jQuery. https://codebreed.dev/
